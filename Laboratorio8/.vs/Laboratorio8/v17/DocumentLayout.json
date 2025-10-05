@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Erika Gonzalez\\source\\repos\\ds4\\Laboratorio8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{155F0588-2F1C-465B-89B6-FC99855CFF55}|Laboratorio89\\Laboratorio89.csproj|c:\\users\\erika gonzalez\\source\\repos\\ds4\\laboratorio8\\laboratorio89\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{155F0588-2F1C-465B-89B6-FC99855CFF55}|Laboratorio89\\Laboratorio89.csproj|solutionrelative:laboratorio89\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{155F0588-2F1C-465B-89B6-FC99855CFF55}|Laboratorio89\\Laboratorio89.csproj|c:\\users\\erika gonzalez\\source\\repos\\ds4\\laboratorio8\\laboratorio89\\template.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{155F0588-2F1C-465B-89B6-FC99855CFF55}|Laboratorio89\\Laboratorio89.csproj|solutionrelative:laboratorio89\\template.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{155F0588-2F1C-465B-89B6-FC99855CFF55}|Laboratorio89\\Laboratorio89.csproj|c:\\users\\erika gonzalez\\source\\repos\\ds4\\laboratorio8\\laboratorio89\\itemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{155F0588-2F1C-465B-89B6-FC99855CFF55}|Laboratorio89\\Laboratorio89.csproj|solutionrelative:laboratorio89\\itemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Template.cs",
+              "DocumentMoniker": "C:\\Users\\Erika Gonzalez\\source\\repos\\ds4\\Laboratorio8\\Laboratorio89\\Template.cs",
+              "RelativeDocumentMoniker": "Laboratorio89\\Template.cs",
+              "ToolTip": "C:\\Users\\Erika Gonzalez\\source\\repos\\ds4\\Laboratorio8\\Laboratorio89\\Template.cs",
+              "RelativeToolTip": "Laboratorio89\\Template.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T23:33:14.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "iTemplate.cs",
+              "DocumentMoniker": "C:\\Users\\Erika Gonzalez\\source\\repos\\ds4\\Laboratorio8\\Laboratorio89\\iTemplate.cs",
+              "RelativeDocumentMoniker": "Laboratorio89\\iTemplate.cs",
+              "ToolTip": "C:\\Users\\Erika Gonzalez\\source\\repos\\ds4\\Laboratorio8\\Laboratorio89\\iTemplate.cs",
+              "RelativeToolTip": "Laboratorio89\\iTemplate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T23:32:34.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Erika Gonzalez\\source\\repos\\ds4\\Laboratorio8\\Laboratorio89\\Program.cs",
+              "RelativeDocumentMoniker": "Laboratorio89\\Program.cs",
+              "ToolTip": "C:\\Users\\Erika Gonzalez\\source\\repos\\ds4\\Laboratorio8\\Laboratorio89\\Program.cs",
+              "RelativeToolTip": "Laboratorio89\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T23:32:02.606Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
