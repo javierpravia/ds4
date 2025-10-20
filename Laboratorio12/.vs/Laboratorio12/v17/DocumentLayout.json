@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Erika Gonzalez\\source\\repos\\ds4\\Laboratorio12\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{04543804-97EB-4C98-ACE3-AF77A13BA315}|Laboratorio123\\Laboratorio123.csproj|c:\\users\\erika gonzalez\\source\\repos\\ds4\\laboratorio12\\laboratorio123\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{04543804-97EB-4C98-ACE3-AF77A13BA315}|Laboratorio123\\Laboratorio123.csproj|solutionrelative:laboratorio123\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04543804-97EB-4C98-ACE3-AF77A13BA315}|Laboratorio123\\Laboratorio123.csproj|c:\\users\\erika gonzalez\\source\\repos\\ds4\\laboratorio12\\laboratorio123\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04543804-97EB-4C98-ACE3-AF77A13BA315}|Laboratorio123\\Laboratorio123.csproj|solutionrelative:laboratorio123\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Erika Gonzalez\\source\\repos\\ds4\\Laboratorio12\\Laboratorio123\\Form1.cs",
+              "RelativeDocumentMoniker": "Laboratorio123\\Form1.cs",
+              "ToolTip": "C:\\Users\\Erika Gonzalez\\source\\repos\\ds4\\Laboratorio12\\Laboratorio123\\Form1.cs",
+              "RelativeToolTip": "Laboratorio123\\Form1.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAD4vygAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T20:04:35.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Erika Gonzalez\\source\\repos\\ds4\\Laboratorio12\\Laboratorio123\\Form1.cs",
+              "RelativeDocumentMoniker": "Laboratorio123\\Form1.cs",
+              "ToolTip": "C:\\Users\\Erika Gonzalez\\source\\repos\\ds4\\Laboratorio12\\Laboratorio123\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Laboratorio123\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T19:57:04.54Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
