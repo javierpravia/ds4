@@ -1,0 +1,32 @@
+﻿@{
+    ViewBag.Title = "Laboratorio 19-2";
+}
+
+<h2>Laboratorio 19-2 - Obtener todos los valores</h2>
+
+<button id="btnObtener" class="btn btn-primary">Obtener Valores</button>
+
+<div id="resultado" style="margin-top: 20px;">
+    <h3>Resultado:</h3>
+    <pre id="result"></pre>
+</div>
+
+<script>
+    document.getElementById('btnObtener').addEventListener('click', function() {
+        fetch('@Url.Action("GetItems", "Default")')
+            .then(response => response.text())
+            .then(data => {
+                // Formatear el JSON para que se vea bonito
+                try {
+                    const jsonData = JSON.parse(data);
+                    document.getElementById('result').textContent = JSON.stringify(jsonData, null, 2);
+                } catch (e) {
+                    // Si no es JSON válido, mostrarlo tal cual
+                    document.getElementById('result').textContent = data;
+                }
+            })
+            .catch(error => {
+                document.getElementById('result').textContent = 'Error: ' + error;
+            });
+    });
+</script>

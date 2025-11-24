@@ -1,0 +1,333 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Erika Gonzalez\\source\\repos\\ds4\\Laboratorio19\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8C3DEA03-3E9F-44F3-9D39-4276A94CA1FE}|Laboratorio191\\Laboratorio191.csproj|c:\\users\\erika gonzalez\\source\\repos\\ds4\\laboratorio19\\laboratorio191\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C3DEA03-3E9F-44F3-9D39-4276A94CA1FE}|Laboratorio191\\Laboratorio191.csproj|solutionrelative:laboratorio191\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C3DEA03-3E9F-44F3-9D39-4276A94CA1FE}|Laboratorio191\\Laboratorio191.csproj|c:\\users\\erika gonzalez\\source\\repos\\ds4\\laboratorio19\\laboratorio191\\controllers\\accesscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C3DEA03-3E9F-44F3-9D39-4276A94CA1FE}|Laboratorio191\\Laboratorio191.csproj|solutionrelative:laboratorio191\\controllers\\accesscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C3DEA03-3E9F-44F3-9D39-4276A94CA1FE}|Laboratorio191\\Laboratorio191.csproj|c:\\users\\erika gonzalez\\source\\repos\\ds4\\laboratorio19\\laboratorio191\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C3DEA03-3E9F-44F3-9D39-4276A94CA1FE}|Laboratorio191\\Laboratorio191.csproj|solutionrelative:laboratorio191\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C3DEA03-3E9F-44F3-9D39-4276A94CA1FE}|Laboratorio191\\Laboratorio191.csproj|c:\\users\\erika gonzalez\\source\\repos\\ds4\\laboratorio19\\laboratorio191\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C3DEA03-3E9F-44F3-9D39-4276A94CA1FE}|Laboratorio191\\Laboratorio191.csproj|solutionrelative:laboratorio191\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C3DEA03-3E9F-44F3-9D39-4276A94CA1FE}|Laboratorio191\\Laboratorio191.csproj|c:\\users\\erika gonzalez\\source\\repos\\ds4\\laboratorio19\\laboratorio191\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C3DEA03-3E9F-44F3-9D39-4276A94CA1FE}|Laboratorio191\\Laboratorio191.csproj|solutionrelative:laboratorio191\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C3DEA03-3E9F-44F3-9D39-4276A94CA1FE}|Laboratorio191\\Laboratorio191.csproj|c:\\users\\erika gonzalez\\source\\repos\\ds4\\laboratorio19\\laboratorio191\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C3DEA03-3E9F-44F3-9D39-4276A94CA1FE}|Laboratorio191\\Laboratorio191.csproj|solutionrelative:laboratorio191\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C3DEA03-3E9F-44F3-9D39-4276A94CA1FE}|Laboratorio191\\Laboratorio191.csproj|c:\\users\\erika gonzalez\\source\\repos\\ds4\\laboratorio19\\laboratorio191\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C3DEA03-3E9F-44F3-9D39-4276A94CA1FE}|Laboratorio191\\Laboratorio191.csproj|solutionrelative:laboratorio191\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C3DEA03-3E9F-44F3-9D39-4276A94CA1FE}|Laboratorio191\\Laboratorio191.csproj|c:\\users\\erika gonzalez\\source\\repos\\ds4\\laboratorio19\\laboratorio191\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C3DEA03-3E9F-44F3-9D39-4276A94CA1FE}|Laboratorio191\\Laboratorio191.csproj|solutionrelative:laboratorio191\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52C06648-877B-4910-969C-31D8025B7DD1}|Laboratorio193\\Laboratorio193.csproj|c:\\users\\erika gonzalez\\source\\repos\\ds4\\laboratorio19\\laboratorio193\\controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52C06648-877B-4910-969C-31D8025B7DD1}|Laboratorio193\\Laboratorio193.csproj|solutionrelative:laboratorio193\\controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52C06648-877B-4910-969C-31D8025B7DD1}|Laboratorio193\\Laboratorio193.csproj|c:\\users\\erika gonzalez\\source\\repos\\ds4\\laboratorio19\\laboratorio193\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{52C06648-877B-4910-969C-31D8025B7DD1}|Laboratorio193\\Laboratorio193.csproj|solutionrelative:laboratorio193\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3849ECB4-B0EB-4A58-8B26-6649A4C1DC4A}|Laboratorio192\\Laboratorio192.csproj|c:\\users\\erika gonzalez\\source\\repos\\ds4\\laboratorio19\\laboratorio192\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3849ECB4-B0EB-4A58-8B26-6649A4C1DC4A}|Laboratorio192\\Laboratorio192.csproj|solutionrelative:laboratorio192\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3849ECB4-B0EB-4A58-8B26-6649A4C1DC4A}|Laboratorio192\\Laboratorio192.csproj|c:\\users\\erika gonzalez\\source\\repos\\ds4\\laboratorio19\\laboratorio192\\controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3849ECB4-B0EB-4A58-8B26-6649A4C1DC4A}|Laboratorio192\\Laboratorio192.csproj|solutionrelative:laboratorio192\\controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3849ECB4-B0EB-4A58-8B26-6649A4C1DC4A}|Laboratorio192\\Laboratorio192.csproj|c:\\users\\erika gonzalez\\source\\repos\\ds4\\laboratorio19\\laboratorio192\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3849ECB4-B0EB-4A58-8B26-6649A4C1DC4A}|Laboratorio192\\Laboratorio192.csproj|solutionrelative:laboratorio192\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3849ECB4-B0EB-4A58-8B26-6649A4C1DC4A}|Laboratorio192\\Laboratorio192.csproj|c:\\users\\erika gonzalez\\source\\repos\\ds4\\laboratorio19\\laboratorio192\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3849ECB4-B0EB-4A58-8B26-6649A4C1DC4A}|Laboratorio192\\Laboratorio192.csproj|solutionrelative:laboratorio192\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52C06648-877B-4910-969C-31D8025B7DD1}|Laboratorio193\\Laboratorio193.csproj|c:\\users\\erika gonzalez\\source\\repos\\ds4\\laboratorio19\\laboratorio193\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52C06648-877B-4910-969C-31D8025B7DD1}|Laboratorio193\\Laboratorio193.csproj|solutionrelative:laboratorio193\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52C06648-877B-4910-969C-31D8025B7DD1}|Laboratorio193\\Laboratorio193.csproj|c:\\users\\erika gonzalez\\source\\repos\\ds4\\laboratorio19\\laboratorio193\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52C06648-877B-4910-969C-31D8025B7DD1}|Laboratorio193\\Laboratorio193.csproj|solutionrelative:laboratorio193\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52C06648-877B-4910-969C-31D8025B7DD1}|Laboratorio193\\Laboratorio193.csproj|c:\\users\\erika gonzalez\\source\\repos\\ds4\\laboratorio19\\laboratorio193\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{52C06648-877B-4910-969C-31D8025B7DD1}|Laboratorio193\\Laboratorio193.csproj|solutionrelative:laboratorio193\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BundleConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Erika Gonzalez\\source\\repos\\ds4\\Laboratorio19\\Laboratorio191\\App_Start\\BundleConfig.cs",
+              "RelativeDocumentMoniker": "Laboratorio191\\App_Start\\BundleConfig.cs",
+              "ToolTip": "C:\\Users\\Erika Gonzalez\\source\\repos\\ds4\\Laboratorio19\\Laboratorio191\\App_Start\\BundleConfig.cs",
+              "RelativeToolTip": "Laboratorio191\\App_Start\\BundleConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T22:23:22.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FilterConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Erika Gonzalez\\source\\repos\\ds4\\Laboratorio19\\Laboratorio191\\App_Start\\FilterConfig.cs",
+              "RelativeDocumentMoniker": "Laboratorio191\\App_Start\\FilterConfig.cs",
+              "ToolTip": "C:\\Users\\Erika Gonzalez\\source\\repos\\ds4\\Laboratorio19\\Laboratorio191\\App_Start\\FilterConfig.cs",
+              "RelativeToolTip": "Laboratorio191\\App_Start\\FilterConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T22:23:21.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Erika Gonzalez\\source\\repos\\ds4\\Laboratorio19\\Laboratorio191\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "Laboratorio191\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\Erika Gonzalez\\source\\repos\\ds4\\Laboratorio19\\Laboratorio191\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "Laboratorio191\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T22:23:16.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Erika Gonzalez\\source\\repos\\ds4\\Laboratorio19\\Laboratorio191\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Laboratorio191\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Erika Gonzalez\\source\\repos\\ds4\\Laboratorio19\\Laboratorio191\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Laboratorio191\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-24T22:23:10.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Erika Gonzalez\\source\\repos\\ds4\\Laboratorio19\\Laboratorio191\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Laboratorio191\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Erika Gonzalez\\source\\repos\\ds4\\Laboratorio19\\Laboratorio191\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Laboratorio191\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T22:22:56.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebApiConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Erika Gonzalez\\source\\repos\\ds4\\Laboratorio19\\Laboratorio191\\App_Start\\WebApiConfig.cs",
+              "RelativeDocumentMoniker": "Laboratorio191\\App_Start\\WebApiConfig.cs",
+              "ToolTip": "C:\\Users\\Erika Gonzalez\\source\\repos\\ds4\\Laboratorio19\\Laboratorio191\\App_Start\\WebApiConfig.cs",
+              "RelativeToolTip": "Laboratorio191\\App_Start\\WebApiConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T22:09:33.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccessController.cs",
+              "DocumentMoniker": "C:\\Users\\Erika Gonzalez\\source\\repos\\ds4\\Laboratorio19\\Laboratorio191\\Controllers\\AccessController.cs",
+              "RelativeDocumentMoniker": "Laboratorio191\\Controllers\\AccessController.cs",
+              "ToolTip": "C:\\Users\\Erika Gonzalez\\source\\repos\\ds4\\Laboratorio19\\Laboratorio191\\Controllers\\AccessController.cs",
+              "RelativeToolTip": "Laboratorio191\\Controllers\\AccessController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T22:09:57.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DefaultController.cs",
+              "DocumentMoniker": "C:\\Users\\Erika Gonzalez\\source\\repos\\ds4\\Laboratorio19\\Laboratorio193\\Controllers\\DefaultController.cs",
+              "RelativeDocumentMoniker": "Laboratorio193\\Controllers\\DefaultController.cs",
+              "ToolTip": "C:\\Users\\Erika Gonzalez\\source\\repos\\ds4\\Laboratorio19\\Laboratorio193\\Controllers\\DefaultController.cs",
+              "RelativeToolTip": "Laboratorio193\\Controllers\\DefaultController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T22:10:57.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Erika Gonzalez\\source\\repos\\ds4\\Laboratorio19\\Laboratorio193\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "Laboratorio193\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\Erika Gonzalez\\source\\repos\\ds4\\Laboratorio19\\Laboratorio193\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "Laboratorio193\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T22:10:52.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Erika Gonzalez\\source\\repos\\ds4\\Laboratorio19\\Laboratorio193\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Laboratorio193\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Erika Gonzalez\\source\\repos\\ds4\\Laboratorio19\\Laboratorio193\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Laboratorio193\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T22:11:26.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DefaultController.cs",
+              "DocumentMoniker": "C:\\Users\\Erika Gonzalez\\source\\repos\\ds4\\Laboratorio19\\Laboratorio192\\Controllers\\DefaultController.cs",
+              "RelativeDocumentMoniker": "Laboratorio192\\Controllers\\DefaultController.cs",
+              "ToolTip": "C:\\Users\\Erika Gonzalez\\source\\repos\\ds4\\Laboratorio19\\Laboratorio192\\Controllers\\DefaultController.cs",
+              "RelativeToolTip": "Laboratorio192\\Controllers\\DefaultController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T22:10:29.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ValuesController.cs",
+              "DocumentMoniker": "C:\\Users\\Erika Gonzalez\\source\\repos\\ds4\\Laboratorio19\\Laboratorio191\\Controllers\\ValuesController.cs",
+              "RelativeDocumentMoniker": "Laboratorio191\\Controllers\\ValuesController.cs",
+              "ToolTip": "C:\\Users\\Erika Gonzalez\\source\\repos\\ds4\\Laboratorio19\\Laboratorio191\\Controllers\\ValuesController.cs",
+              "RelativeToolTip": "Laboratorio191\\Controllers\\ValuesController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T22:09:59.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Erika Gonzalez\\source\\repos\\ds4\\Laboratorio19\\Laboratorio193\\Views\\Default\\Index.cshtml",
+              "RelativeDocumentMoniker": "Laboratorio193\\Views\\Default\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Erika Gonzalez\\source\\repos\\ds4\\Laboratorio19\\Laboratorio193\\Views\\Default\\Index.cshtml",
+              "RelativeToolTip": "Laboratorio193\\Views\\Default\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-24T22:11:30.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Erika Gonzalez\\source\\repos\\ds4\\Laboratorio19\\Laboratorio193\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Laboratorio193\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Erika Gonzalez\\source\\repos\\ds4\\Laboratorio19\\Laboratorio193\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Laboratorio193\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-24T22:13:20.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Erika Gonzalez\\source\\repos\\ds4\\Laboratorio19\\Laboratorio192\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Laboratorio192\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Erika Gonzalez\\source\\repos\\ds4\\Laboratorio19\\Laboratorio192\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Laboratorio192\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T22:14:05.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Erika Gonzalez\\source\\repos\\ds4\\Laboratorio19\\Laboratorio192\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Laboratorio192\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Erika Gonzalez\\source\\repos\\ds4\\Laboratorio19\\Laboratorio192\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Laboratorio192\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-24T22:14:13.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Erika Gonzalez\\source\\repos\\ds4\\Laboratorio19\\Laboratorio192\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "Laboratorio192\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\Erika Gonzalez\\source\\repos\\ds4\\Laboratorio19\\Laboratorio192\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "Laboratorio192\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T22:10:09.018Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
