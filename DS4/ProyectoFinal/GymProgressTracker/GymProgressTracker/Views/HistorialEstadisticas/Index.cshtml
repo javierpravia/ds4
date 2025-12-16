@@ -1,0 +1,48 @@
+﻿@model GymProgressTracker.Models.MVC.HistorialEstadisticasViewModel
+@{
+    ViewBag.Title = "Historial y Estadísticas";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Historial de entrenamientos</h2>
+
+
+<div class="stats-cards">
+    <div class="card">
+        <div><b>Total sesiones</b></div>
+        <div class="stat-value">@Model.TotalSesiones</div>
+    </div>
+    <div class="card">
+        <div><b>Peso máximo</b></div>
+        <div class="stat-value">@Model.MaxPeso kg</div>
+    </div>
+    <div class="card">
+        <div><b>Total series</b></div>
+        <div class="stat-value">@Model.TotalSeries</div>
+    </div>
+</div>
+
+@if (Model.Registros != null && Model.Registros.Any())
+{
+    <h3>Todos los entrenamientos</h3>
+    <div class="reg-cards">
+        @foreach (var reg in Model.Registros)
+        {
+            var ejercicio = Model.Ejercicios.FirstOrDefault(e => e.Id == reg.EjercicioId);
+            <div class="card card-lg">
+                <div><b>@reg.Fecha.ToString("yyyy-MM-dd")</b></div>
+                <div><b>Ejercicio:</b> @(ejercicio != null ? ejercicio.Nombre : "Sin datos")</div>
+                <div><b>Peso:</b> @reg.Peso kg</div>
+                <div><b>Series:</b> @reg.Series &nbsp; <b>Reps:</b> @reg.Repeticiones</div>
+                @if (!string.IsNullOrWhiteSpace(reg.Notas))
+                {
+                    <div><b>Notas:</b> @reg.Notas</div>
+                }
+            </div>
+        }
+    </div>
+}
+else
+{
+    <p>No hay registros aún.</p>
+}

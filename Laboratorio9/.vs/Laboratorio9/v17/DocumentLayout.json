@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Erika Gonzalez\\source\\repos\\ds4\\Laboratorio9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6E585AF0-BAD1-4A8C-8980-9AE4C1E20D3E}|Laboratorio9\\Laboratorio9.csproj|c:\\users\\erika gonzalez\\source\\repos\\ds4\\laboratorio9\\laboratorio9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E585AF0-BAD1-4A8C-8980-9AE4C1E20D3E}|Laboratorio9\\Laboratorio9.csproj|solutionrelative:laboratorio9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Erika Gonzalez\\source\\repos\\ds4\\Laboratorio9\\Laboratorio9\\Program.cs",
+              "RelativeDocumentMoniker": "Laboratorio9\\Program.cs",
+              "ToolTip": "C:\\Users\\Erika Gonzalez\\source\\repos\\ds4\\Laboratorio9\\Laboratorio9\\Program.cs",
+              "RelativeToolTip": "Laboratorio9\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T22:28:46.429Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

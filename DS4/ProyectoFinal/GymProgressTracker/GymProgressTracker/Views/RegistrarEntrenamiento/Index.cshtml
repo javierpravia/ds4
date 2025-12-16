@@ -1,0 +1,63 @@
+﻿@model GymProgressTracker.Models.MVC.RegistrarEntrenamientoViewModel
+@{
+    ViewBag.Title = "Registrar Entrenamiento";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Registrar entrenamiento</h2>
+
+@if (TempData["MensajeExito"] != null)
+{
+    <div class="alert alert-success">@TempData["MensajeExito"]</div>
+}
+@if (TempData["MensajeError"] != null)
+{
+    <div class="alert alert-danger">@TempData["MensajeError"]</div>
+}
+
+<!-- Formulario de registro -->
+@using (Html.BeginForm("Registrar", "RegistrarEntrenamiento", FormMethod.Post))
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-group">
+        <label for="EjercicioId">Ejercicio</label>
+        <select id="EjercicioId" name="NuevoRegistro.EjercicioId" class="form-control" required>
+            <option value="">-- Seleccionar --</option>
+            @foreach (var ejer in Model.Ejercicios)
+            {
+                <option value="@ejer.Id">@ejer.Nombre (@ejer.GrupoMuscular)</option>
+            }
+        </select>
+    </div>
+
+    <div class="form-group">
+        <label for="Peso">Peso (kg)</label>
+        <input id="Peso" name="NuevoRegistro.Peso" type="number" step="0.1" min="0" required value="@Model.NuevoRegistro.Peso" />
+    </div>
+
+    <div class="form-group">
+        <label for="Series">Series</label>
+        <input id="Series" name="NuevoRegistro.Series" type="number" min="1" required value="@Model.NuevoRegistro.Series" />
+    </div>
+
+    <div class="form-group">
+        <label for="Repeticiones">Repeticiones</label>
+        <input id="Repeticiones" name="NuevoRegistro.Repeticiones" type="number" min="1" required value="@Model.NuevoRegistro.Repeticiones" />
+    </div>
+
+    <div class="form-group">
+        <label for="Fecha">Fecha</label>
+        <input id="Fecha" name="NuevoRegistro.Fecha" type="date"
+               value="@Model.NuevoRegistro.Fecha.ToString("yyyy-MM-dd")" />
+    </div>
+
+    <div class="form-group">
+        <label for="Notas">Notas</label>
+        <textarea id="Notas" name="NuevoRegistro.Notas">@Model.NuevoRegistro.Notas</textarea>
+    </div>
+
+    <button type="submit" class="btn-success">Registrar</button>
+}
+
+

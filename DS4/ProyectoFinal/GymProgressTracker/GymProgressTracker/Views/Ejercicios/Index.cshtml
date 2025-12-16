@@ -1,0 +1,55 @@
+﻿@model IEnumerable<GymProgressTracker.Models.MVC.Ejercicio>
+@{
+    ViewBag.Title = "Ejercicios registrados";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@if (TempData["MensajeExito"] != null)
+{
+    <div class="alert alert-success">@TempData["MensajeExito"]</div>
+}
+@if (TempData["MensajeError"] != null)
+{
+    <div class="alert alert-danger">@TempData["MensajeError"]</div>
+}
+
+@using (Html.BeginForm("Agregar", "Ejercicios", FormMethod.Post, new { @class = "form-ejercicio mb-4" }))
+{
+    @Html.AntiForgeryToken()
+    <div class="form-group">
+        <label for="Nombre">Nombre</label>
+        <input id="Nombre" name="Nombre" class="form-control" type="text" required maxlength="100" />
+    </div>
+    <div class="form-group">
+        <label for="GrupoMuscular">Grupo Muscular</label>
+        <input id="GrupoMuscular" name="GrupoMuscular" class="form-control" type="text" required maxlength="50" />
+    </div>
+    <div class="form-group">
+        <label for="Descripcion">Descripción</label>
+        <input id="Descripcion" name="Descripcion" class="form-control" type="text" maxlength="255" />
+    </div>
+    <button type="submit" class="btn btn-primary">Agregar ejercicio</button>
+}
+
+<h2>Ejercicios registrados</h2>
+
+@if (!Model.Any())
+{
+    <p>No hay ejercicios cargados.</p>
+}
+else
+{
+    <div class="reg-cards">
+        @foreach (var ejercicio in Model)
+        {
+            <div class="card card-lg">
+                <div><b>@ejercicio.Nombre</b></div>
+                <div><b>Grupo muscular:</b> @ejercicio.GrupoMuscular</div>
+                @if (!string.IsNullOrWhiteSpace(ejercicio.Descripcion))
+                {
+                    <div><b>Descripción:</b> @ejercicio.Descripcion</div>
+                }
+            </div>
+        }
+    </div>
+}

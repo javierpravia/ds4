@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Erika Gonzalez\\source\\repos\\ds4\\Laboratorio13\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{06E6C3E1-55FB-4B64-8B4D-F40EFA19AE3C}|Laboratorio13\\Laboratorio13.csproj|c:\\users\\erika gonzalez\\source\\repos\\ds4\\laboratorio13\\laboratorio13\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{06E6C3E1-55FB-4B64-8B4D-F40EFA19AE3C}|Laboratorio13\\Laboratorio13.csproj|solutionrelative:laboratorio13\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{06E6C3E1-55FB-4B64-8B4D-F40EFA19AE3C}|Laboratorio13\\Laboratorio13.csproj|C:\\Users\\Erika Gonzalez\\source\\repos\\ds4\\Laboratorio13\\laboratorio13\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06E6C3E1-55FB-4B64-8B4D-F40EFA19AE3C}|Laboratorio13\\Laboratorio13.csproj|solutionrelative:laboratorio13\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{06E6C3E1-55FB-4B64-8B4D-F40EFA19AE3C}|Laboratorio13\\Laboratorio13.csproj|c:\\users\\erika gonzalez\\source\\repos\\ds4\\laboratorio13\\laboratorio13\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{06E6C3E1-55FB-4B64-8B4D-F40EFA19AE3C}|Laboratorio13\\Laboratorio13.csproj|solutionrelative:laboratorio13\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{06E6C3E1-55FB-4B64-8B4D-F40EFA19AE3C}|Laboratorio13\\Laboratorio13.csproj|c:\\users\\erika gonzalez\\source\\repos\\ds4\\laboratorio13\\laboratorio13\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{06E6C3E1-55FB-4B64-8B4D-F40EFA19AE3C}|Laboratorio13\\Laboratorio13.csproj|solutionrelative:laboratorio13\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,25 +26,25 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\Erika Gonzalez\\source\\repos\\ds4\\Laboratorio13\\Laboratorio13\\Form1.cs",
               "RelativeDocumentMoniker": "Laboratorio13\\Form1.cs",
-              "ToolTip": "C:\\Users\\Erika Gonzalez\\source\\repos\\ds4\\Laboratorio13\\Laboratorio13\\Form1.cs",
-              "RelativeToolTip": "Laboratorio13\\Form1.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Erika Gonzalez\\source\\repos\\ds4\\Laboratorio13\\Laboratorio13\\Form1.cs*",
+              "RelativeToolTip": "Laboratorio13\\Form1.cs*",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAIwDIAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-20T22:29:29.922Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Erika Gonzalez\\source\\repos\\ds4\\Laboratorio13\\Laboratorio13\\Form1.cs",
               "RelativeDocumentMoniker": "Laboratorio13\\Form1.cs",
-              "ToolTip": "C:\\Users\\Erika Gonzalez\\source\\repos\\ds4\\Laboratorio13\\Laboratorio13\\Form1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Laboratorio13\\Form1.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\Erika Gonzalez\\source\\repos\\ds4\\Laboratorio13\\Laboratorio13\\Form1.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "Laboratorio13\\Form1.cs [Dise\u00F1o]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-20T22:27:17.08Z",
               "EditorCaption": " [Dise\u00F1o]"

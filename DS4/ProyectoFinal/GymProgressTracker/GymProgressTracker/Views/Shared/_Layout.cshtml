@@ -1,0 +1,39 @@
+﻿@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Gym Progress Tracker</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" href="~/Content/CSS.css" />
+</head>
+<body>
+    <div class="page-container">
+        <nav class="nav">
+            <a class="brand" href="@Url.Action("Index", "RegistrarEntrenamiento")">Gym Progress Tracker</a>
+            <ul class="menu">
+                <li class="item">
+                    <a class="link" href="@Url.Action("Index", "RegistrarEntrenamiento")">Registrar</a>
+                </li>
+                <li class="item">
+                    <a class="link" href="@Url.Action("Index", "Ejercicios")">Ejercicios</a>
+                </li>
+                <li class="item">
+                    <a class="link" href="@Url.Action("Index", "Rutinas")">Rutinas</a>
+                </li>
+                <li class="item">
+                    <a class="link" href="@Url.Action("Index", "HistorialEstadisticas")">Historial</a>
+                </li>
+            </ul>
+        </nav>
+        <main class="content">
+            @RenderBody()
+        </main>
+        <footer class="footer">
+            Gym Progress Tracker © @DateTime.Now.Year
+        </footer>
+    </div>
+</body>
+</html>
