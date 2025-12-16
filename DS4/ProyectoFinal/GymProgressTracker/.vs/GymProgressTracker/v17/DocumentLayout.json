@@ -1,10 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Erika Gonzalez\\Downloads\\DS4\\DS4\\GymProgressTracker\\",
+  "WorkspaceRootPath": "C:\\Users\\Erika Gonzalez\\source\\repos\\ds4\\DS4\\ProyectoFinal\\GymProgressTracker\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5F022F38-4527-4AE7-B5EE-28352A91E3A5}|GymProgressTracker\\GymProgressTracker.csproj|c:\\users\\erika gonzalez\\downloads\\ds4\\ds4\\gymprogresstracker\\gymprogresstracker\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{5F022F38-4527-4AE7-B5EE-28352A91E3A5}|GymProgressTracker\\GymProgressTracker.csproj|c:\\users\\erika gonzalez\\source\\repos\\ds4\\ds4\\proyectofinal\\gymprogresstracker\\gymprogresstracker\\controllers\\controlador-api\\gymapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F022F38-4527-4AE7-B5EE-28352A91E3A5}|GymProgressTracker\\GymProgressTracker.csproj|solutionrelative:gymprogresstracker\\controllers\\controlador-api\\gymapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F022F38-4527-4AE7-B5EE-28352A91E3A5}|GymProgressTracker\\GymProgressTracker.csproj|c:\\users\\erika gonzalez\\source\\repos\\ds4\\ds4\\proyectofinal\\gymprogresstracker\\gymprogresstracker\\controllers\\mvc\\historialestadisticascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F022F38-4527-4AE7-B5EE-28352A91E3A5}|GymProgressTracker\\GymProgressTracker.csproj|solutionrelative:gymprogresstracker\\controllers\\mvc\\historialestadisticascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F022F38-4527-4AE7-B5EE-28352A91E3A5}|GymProgressTracker\\GymProgressTracker.csproj|c:\\users\\erika gonzalez\\source\\repos\\ds4\\ds4\\proyectofinal\\gymprogresstracker\\gymprogresstracker\\controllers\\mvc\\ejercicioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F022F38-4527-4AE7-B5EE-28352A91E3A5}|GymProgressTracker\\GymProgressTracker.csproj|solutionrelative:gymprogresstracker\\controllers\\mvc\\ejercicioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F022F38-4527-4AE7-B5EE-28352A91E3A5}|GymProgressTracker\\GymProgressTracker.csproj|c:\\users\\erika gonzalez\\source\\repos\\ds4\\ds4\\proyectofinal\\gymprogresstracker\\gymprogresstracker\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{5F022F38-4527-4AE7-B5EE-28352A91E3A5}|GymProgressTracker\\GymProgressTracker.csproj|solutionrelative:gymprogresstracker\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F022F38-4527-4AE7-B5EE-28352A91E3A5}|GymProgressTracker\\GymProgressTracker.csproj|c:\\users\\erika gonzalez\\source\\repos\\ds4\\ds4\\proyectofinal\\gymprogresstracker\\gymprogresstracker\\models\\api\\registroentrenamiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F022F38-4527-4AE7-B5EE-28352A91E3A5}|GymProgressTracker\\GymProgressTracker.csproj|solutionrelative:gymprogresstracker\\models\\api\\registroentrenamiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 323,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,13 +62,65 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HistorialEstadisticasController.cs",
+              "DocumentMoniker": "C:\\Users\\Erika Gonzalez\\source\\repos\\ds4\\DS4\\ProyectoFinal\\GymProgressTracker\\GymProgressTracker\\Controllers\\MVC\\HistorialEstadisticasController.cs",
+              "RelativeDocumentMoniker": "GymProgressTracker\\Controllers\\MVC\\HistorialEstadisticasController.cs",
+              "ToolTip": "C:\\Users\\Erika Gonzalez\\source\\repos\\ds4\\DS4\\ProyectoFinal\\GymProgressTracker\\GymProgressTracker\\Controllers\\MVC\\HistorialEstadisticasController.cs",
+              "RelativeToolTip": "GymProgressTracker\\Controllers\\MVC\\HistorialEstadisticasController.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T22:41:37.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EjerciciosController.cs",
+              "DocumentMoniker": "C:\\Users\\Erika Gonzalez\\source\\repos\\ds4\\DS4\\ProyectoFinal\\GymProgressTracker\\GymProgressTracker\\Controllers\\MVC\\EjerciciosController.cs",
+              "RelativeDocumentMoniker": "GymProgressTracker\\Controllers\\MVC\\EjerciciosController.cs",
+              "ToolTip": "C:\\Users\\Erika Gonzalez\\source\\repos\\ds4\\DS4\\ProyectoFinal\\GymProgressTracker\\GymProgressTracker\\Controllers\\MVC\\EjerciciosController.cs",
+              "RelativeToolTip": "GymProgressTracker\\Controllers\\MVC\\EjerciciosController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T22:41:22.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegistroEntrenamiento.cs",
+              "DocumentMoniker": "C:\\Users\\Erika Gonzalez\\source\\repos\\ds4\\DS4\\ProyectoFinal\\GymProgressTracker\\GymProgressTracker\\Models\\API\\RegistroEntrenamiento.cs",
+              "RelativeDocumentMoniker": "GymProgressTracker\\Models\\API\\RegistroEntrenamiento.cs",
+              "ToolTip": "C:\\Users\\Erika Gonzalez\\source\\repos\\ds4\\DS4\\ProyectoFinal\\GymProgressTracker\\GymProgressTracker\\Models\\API\\RegistroEntrenamiento.cs",
+              "RelativeToolTip": "GymProgressTracker\\Models\\API\\RegistroEntrenamiento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T22:36:30.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "GymApiController.cs",
+              "DocumentMoniker": "C:\\Users\\Erika Gonzalez\\source\\repos\\ds4\\DS4\\ProyectoFinal\\GymProgressTracker\\GymProgressTracker\\Controllers\\Controlador-Api\\GymApiController.cs",
+              "RelativeDocumentMoniker": "GymProgressTracker\\Controllers\\Controlador-Api\\GymApiController.cs",
+              "ToolTip": "C:\\Users\\Erika Gonzalez\\source\\repos\\ds4\\DS4\\ProyectoFinal\\GymProgressTracker\\GymProgressTracker\\Controllers\\Controlador-Api\\GymApiController.cs*",
+              "RelativeToolTip": "GymProgressTracker\\Controllers\\Controlador-Api\\GymApiController.cs*",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T22:33:51.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Web.config",
-              "DocumentMoniker": "C:\\Users\\Erika Gonzalez\\Downloads\\DS4\\DS4\\GymProgressTracker\\GymProgressTracker\\Web.config",
+              "DocumentMoniker": "C:\\Users\\Erika Gonzalez\\source\\repos\\ds4\\DS4\\ProyectoFinal\\GymProgressTracker\\GymProgressTracker\\Web.config",
               "RelativeDocumentMoniker": "GymProgressTracker\\Web.config",
-              "ToolTip": "C:\\Users\\Erika Gonzalez\\Downloads\\DS4\\DS4\\GymProgressTracker\\GymProgressTracker\\Web.config",
-              "RelativeToolTip": "GymProgressTracker\\Web.config",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Erika Gonzalez\\source\\repos\\ds4\\DS4\\ProyectoFinal\\GymProgressTracker\\GymProgressTracker\\Web.config*",
+              "RelativeToolTip": "GymProgressTracker\\Web.config*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
               "WhenOpened": "2025-12-16T03:47:54.253Z",
               "EditorCaption": ""
